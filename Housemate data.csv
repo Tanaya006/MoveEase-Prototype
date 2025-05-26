@@ -1,0 +1,22 @@
+User ID,Age,Gender,Profession,Monthly Budget,Preferred Location,Smoking,Drinking,Pets,Wake Time,Cleanliness Level,Room Type,Roommate Gender Preference,Hobbies
+U100,31,Male,Software Engineer,"15,012",Baner,Yes,Yes,Yes,Morning,High,Private,Male,Reading
+U101,24,Male,Student,"6,869",Hinjewadi,Yes,No,Yes,Night,High,Private,Male,Fitness
+U102,27,Female,Teacher,"11,094",Baner,No,Yes,Yes,Night,Low,Private,Female,"Cooking, Reading, Traveling"
+U103,29,Male,Data Analyst,"8,582",Hinjewadi,No,No,Yes,Morning,Low,Shared,Female,Photography
+U104,24,Male,Data Analyst,"15,108",Kothrud,No,Yes,No,Night,Low,Private,Any,"Fitness, Reading, Music"
+U105,31,Male,Student,"14,021",Baner,No,No,No,Morning,High,Private,Male,Photography
+U106,21,Female,Data Analyst,"14,773",Wakad,Yes,No,Yes,Night,Medium,Private,Male,"Gaming, Photography"
+U107,32,Other,Student,"14,609",Hinjewadi,No,No,No,Morning,Low,Private,Male,Photography
+U108,22,Male,Consultant,"11,242",Kothrud,Yes,No,No,Night,High,Private,Any,Fitness
+U109,32,Male,Consultant,"23,595",Kharadi,No,Yes,No,Night,Low,Private,Male,"Fitness, Cooking, Music"
+U110,33,Male,Student,"9,486",Kharadi,Yes,Yes,No,Morning,High,Shared,Any,"Traveling, Reading"
+U111,22,Female,Doctor,"16,076",Baner,Yes,Yes,Yes,Morning,High,Private,Male,"Photography, Gaming, Fitness"
+U112,31,Female,Student,"11,410",Kharadi,No,Yes,Yes,Night,Medium,Private,Female,"Traveling, Reading, Gaming"
+U113,24,Male,Teacher,"6,689",Hinjewadi,Yes,Yes,Yes,Morning,High,Shared,Male,Reading
+U114,34,Female,Software Engineer,"22,847",Baner,No,No,Yes,Morning,High,Private,Male,"Photography, Traveling"
+U115,28,Female,Marketing Manager,"18,500",Wakad,No,Yes,No,Morning,Medium,Private,Female,"Yoga, Reading, Traveling"
+U116,26,Male,Graphic Designer,"10,000",Kothrud,Yes,No,Yes,Night,Low,Shared,Male,"Music, Drawing"
+U117,30,Male,Engineer,"16,000",Baner,No,Yes,No,Morning,High,Private,Any,"Fitness, Reading"
+U118,23,Female,Student,"7,500",Hinjewadi,Yes,No,No,Night,Medium,Shared,Female,"Gaming, Fitness"
+U119,35,Male,Manager,"20,000",Kharadi,No,Yes,Yes,Morning,High,Private,Male,"Cooking, Traveling"
+U120,29,Female,Writer,"12,000",Baner,No,No,Yes,Night,Medium,Private,Female,"Reading, Traveling, Music"
